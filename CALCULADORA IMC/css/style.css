@@ -1,0 +1,71 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  font-family: URW Chancery L, cursive;
+  color: #6E6966;
+}
+
+body{
+    font-size: 18px;
+    text-align: center;
+    background-image: linear-gradient(to top, #2BB0B6, #6ADBD8, #EFEED9);
+    height: 100vh;
+}
+
+h1{
+    font-size: 40px;
+    text-align: center;
+    color: #8E9291;
+    font-family: URW Chancery L, cursive;
+    margin-top: 20px;
+}
+
+#registrar{
+    color: #7E7451;
+    background-color: #E7EAE8 ;
+    font-size: 17px;
+    margin-top: 20px;
+    border:solid 1px;
+    box-shadow: 4px 4px 4px 4px rgb(142, 146, 145);
+    height: 30px;
+    width: 225px;
+}
+
+#nome{
+    margin-top: 30px;
+    height: 30px;
+    width: 225px;
+    border: ridge; 
+    color: #35363A;
+}
+
+#altura{
+    margin-top: 15px;
+    height: 30px;
+    width: 225px;
+    border:ridge;
+
+}
+
+#peso{
+    margin-top: 15px;
+    height: 30px;
+    width: 225px;
+    border: ridge;
+}
+
+th{
+    padding-top: 10px;
+    padding:50px;
+}
+
+#tb{
+    margin-left: 200px;
+}
+
+td{
+    background-color: #EFEED9;
+    height: 5vh;
+}
+
